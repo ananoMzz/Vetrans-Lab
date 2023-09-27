@@ -1,0 +1,10 @@
+.lab-header {
+  text-align: center;
+  font-family: "Caveat", cursive;
+  color: white;
+}
+
+.lab-header h1 {
+  font-weight: 300;
+  font-size: 4vw;
+}
